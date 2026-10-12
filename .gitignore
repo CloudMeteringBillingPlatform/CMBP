@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+backend/data/
+node_modules/
+frontend/dist/
+!frontend/dist/.gitkeep
+scripts/.demo-state.json
+scripts/keys.json
+demo/out/
+demo/*.pdf
+demo/*.jpg
+demo/*.jpeg
+demo/*.png

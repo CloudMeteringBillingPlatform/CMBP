@@ -1,0 +1,12 @@
+**/.venv
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+backend/data
+backend/tests
+frontend/node_modules
+frontend/src
+scripts/.demo-state.json
+scripts/keys.json
+.git
+.env
